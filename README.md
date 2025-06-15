@@ -1,5 +1,6 @@
 <p align="center">
 
+<img src="https://raw.githubusercontent.com/BitPayal/BitPayal/main/github_img.gif" alt="Portfolio Animation" style="max-width: 100%; display: inline-block;">
 
   <h1 align="center">Hi 👋, I'm Payal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
