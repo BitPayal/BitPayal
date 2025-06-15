@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?id=14l7-YwdrZ0oGNC1hndS_zrPuMMI6y9dF" alt="coding" width="400" /><br>
-  
-  <h1>Hi 👋, I'm Payal</h1>
-  <h3>A passionate fullstack developer from India</h3>
+
+
+  <h1 align="center">Hi 👋, I'm Payal</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitpayal" alt="bitpayal" /></a>
