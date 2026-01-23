@@ -13,9 +13,9 @@
     <a href="https://twitter.com/abhiruchic23108"><img src="https://img.shields.io/twitter/follow/abhiruchic23108?logo=twitter&style=for-the-badge" alt="abhiruchic23108" /></a>
   </p>
 
-  - 🌱 I’m currently learning **Backend development.**  
-  - 💬 Ask me about **React, C++, Javascript**  
-  - 📫 How to reach me **p7790149@gmai.com**  
+  - 🌱 I’m currently a **Fullstack developer**  
+  - 💬 Ask me about **React, C++, Javascript,Nodejs**  
+  - 📫 How to reach me **payalchoudharyx@gmail.com **  
   - ⚡ Fun fact **☕ My code runs best with a strong cup of tea.**  
 </p>
 
